@@ -2,7 +2,7 @@ nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
-codegentoolbox/laftools-linux-x64
+codegentoolbox/laftools-linux-x64:latest
 idootop/mi-gpt:latest
 lanqian528/chat2api:latest
 tznb/twonav:latest
